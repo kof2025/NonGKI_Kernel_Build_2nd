@@ -12,7 +12,7 @@ env:
   CUSTOM_CMDS : "CLANG_TRIPLE=aarch64-linux-gnu-"
   EXTRA_CMDS : "LD=ld.lld"
 
-  KERNEL_SOURCE : "https://github.com/AOSP-for-venus/platform_kernel_xiaomi_sm8350/tree/bak.git"
+  KERNEL_SOURCE : "https://github.com/AOSP-for-venus/platform_kernel_xiaomi_sm8350.git"
   KERNEL_BRANCH : "bak"
 
   CLANG_SOURCE : "https://github.com/LineageOS/android_prebuilts_clang_kernel_linux-x86_clang-r416183b.git"
